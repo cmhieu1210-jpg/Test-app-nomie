@@ -1,0 +1,8 @@
+{
+  "name": "CharmCraft AI Configurator",
+  "description": "A premium 3D-style charm bracelet configurator with AI-powered image editing capabilities using Gemini 2.5.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
